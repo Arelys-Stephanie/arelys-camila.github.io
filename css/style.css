@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenido {
+    background-color: #BDF4E9;
+    padding: 10%;
+    width: 70%;
+    margin-left: 15%;
+}
+#cuerpo {
+    background-color: #E5BCE4;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 15px;
+}
+#menu {
+    height: 300px;
+    position: fixed;
+	text-align: center;
+}
+#logo {
+    background-color: #A9608D;
+    height: 140px;
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#menu {
+    background-color: #E9CDCD;
+    margin: 10px;
+    border-color: #E6A6B9;
+    position: fixed;
+    height: 40px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+#titulo1 {
+    background-color: #C8BAFF;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    background-image: url(../images/textura-acuarela-purpura_125540-784.jpg);
+}
+#imagen {
+    text-align: left;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+#titulo2 {
+    background-color: #E0D9F6;
+    margin: 10px;
+    background-image: url(../images/fondo-en-colores-pastel-de-la-acuarela-del-arco-iris-abstracto-129351846.jpg);
+}
+#titulo3 {
+    background-color: #F6CAEB;
+    margin: 10px;
+    font-weight: bold;
+    background-image: url(../images/pastel-watercolor-texture-background.jpg);
+}
+#rosa {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+#index {
+    background-color: #CFE3CD;
+    width: 300px;
+}
+#imagen1 {
+    margin-top: 30px;
+    margin-right: 3px;
+    margin-bottom: 20px;
+    margin-left: 3px;
+    left: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+#rosadiv {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-color: #E06A9C;
+    background-color: #FFDDF2;
+    width: 840px;
+    text-align: center;
+    font-weight: normal;
+}
+#menu {
+    background-color: #FFFFFF;
+    width: 30px;
+    position: fixed;
+}
+#menu {
+    background-color: #F1D7EF;
+    height: 30px;
+    position: fixed;
+}
+#menu {
+    height: 30px;
+    position: fixed;
+}
+#menu {
+    background-color: #F2DDF5;
+    position: fixed;
+}
+#menu {
+    background-color: #F8DFFC;
+    position: fixed;
+}
+#menu {
+    background-color: #FBE3D5;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+}
+#redes {
+    background-color: #A5F1EB;
+    padding: 10px;
+    height: 300px;
+    margin: 10px;
+    font-size: 24px;
+    font-family: alexa-std;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
